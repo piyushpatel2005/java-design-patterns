@@ -1,0 +1,6 @@
+**/*.class
+.settings
+*.iml
+derby.log
+target/
+.idea/
