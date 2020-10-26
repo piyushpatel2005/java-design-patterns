@@ -21,6 +21,6 @@ public class Main {
         ims.process();
 
         System.out.println(ims.report());
-        
+
     }
 }
