@@ -1,5 +1,7 @@
 package pluralsight.builder;
 
+import pluralsight.builder.model.LunchOrderTele;
+
 public class LunchOrderTeleDemo {
     public static void main(String[] args) {
 

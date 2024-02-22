@@ -1,5 +1,7 @@
 package pluralsight.builder;
 
+import pluralsight.builder.model.LunchOrderBean;
+
 public class SimpleDemo {
     public static void main(String[] args) {
 

@@ -1,5 +1,9 @@
 package pluralsight.abstractfactory;
 
+import pluralsight.abstractfactory.factory.CreditCardFactory;
+import pluralsight.abstractfactory.model.CardType;
+import pluralsight.abstractfactory.model.CreditCard;
+
 public class Main {
     public static void main(String[] args) {
 
