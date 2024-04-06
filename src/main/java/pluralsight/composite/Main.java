@@ -1,5 +1,8 @@
 package pluralsight.composite;
 
+import pluralsight.composite.domain.Menu;
+import pluralsight.composite.domain.MenuItem;
+
 public class Main {
 
     public static void main(String[] args) {

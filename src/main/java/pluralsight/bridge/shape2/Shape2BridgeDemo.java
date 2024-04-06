@@ -1,5 +1,13 @@
 package pluralsight.bridge.shape2;
 
+import pluralsight.bridge.shape2.model.color.Blue;
+import pluralsight.bridge.shape2.model.color.Color;
+import pluralsight.bridge.shape2.model.color.Green;
+import pluralsight.bridge.shape2.model.color.Red;
+import pluralsight.bridge.shape2.model.shape.Circle;
+import pluralsight.bridge.shape2.model.shape.Shape;
+import pluralsight.bridge.shape2.model.shape.Square;
+
 public class Shape2BridgeDemo {
 
 	public static void main(String[] args) {

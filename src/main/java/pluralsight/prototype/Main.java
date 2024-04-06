@@ -1,5 +1,8 @@
 package pluralsight.prototype;
 
+import pluralsight.prototype.model.Movie;
+import pluralsight.prototype.model.Registry;
+
 public class Main {
 
     public static void main(String[] args) {

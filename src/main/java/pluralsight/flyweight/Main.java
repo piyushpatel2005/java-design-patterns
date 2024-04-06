@@ -1,5 +1,7 @@
 package pluralsight.flyweight;
 
+import pluralsight.flyweight.model.InventorySystem;
+
 public class Main {
     public static void main(String[] args) {
 

@@ -1,5 +1,12 @@
 package pluralsight.adapter;
 
+import pluralsight.adapter.csv.EmployeeAdapterCSV;
+import pluralsight.adapter.ldap.EmployeeAdapterLdap;
+import pluralsight.adapter.model.Employee;
+import pluralsight.adapter.model.EmployeeCSV;
+import pluralsight.adapter.model.EmployeeDB;
+import pluralsight.adapter.model.EmployeeLdap;
+
 import java.util.ArrayList;
 import java.util.List;
 

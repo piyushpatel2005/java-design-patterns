@@ -1,5 +1,7 @@
 package pluralsight.adapter;
 
+import pluralsight.adapter.model.Employee;
+
 import java.util.List;
 
 public class Main {

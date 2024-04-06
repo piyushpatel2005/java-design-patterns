@@ -7,7 +7,7 @@ import java.net.URL;
 public class FacadeSimpleDemo {
 
     public static void main(String[] args) throws Exception {
-        URL url = new URL("http", "github.com", 80, "/piyushpatel2005");
+        URL url = new URL("https", "github.com", 443, "/piyushpatel2005");
 
         BufferedReader in = new BufferedReader(new InputStreamReader(url.openStream()));
 
