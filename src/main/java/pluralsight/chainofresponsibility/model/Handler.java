@@ -1,4 +1,4 @@
-package pluralsight.chainofresponsibility;
+package pluralsight.chainofresponsibility.model;
 
 public abstract class Handler {
 

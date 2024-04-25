@@ -1,4 +1,7 @@
-package pluralsight.command;
+package pluralsight.command.model;
+
+import pluralsight.command.model.Command;
+import pluralsight.command.model.Light;
 
 public class ToggleCommand implements Command {
     private Light light;

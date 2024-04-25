@@ -1,4 +1,4 @@
-package pluralsight.command;
+package pluralsight.command.model;
 
 // receiver
 public class Light {

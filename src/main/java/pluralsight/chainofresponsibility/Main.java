@@ -1,5 +1,11 @@
 package pluralsight.chainofresponsibility;
 
+import pluralsight.chainofresponsibility.model.Request;
+import pluralsight.chainofresponsibility.model.RequestType;
+import pluralsight.chainofresponsibility.model.handler.CEO;
+import pluralsight.chainofresponsibility.model.handler.Director;
+import pluralsight.chainofresponsibility.model.handler.VP;
+
 public class Main {
     public static void main(String[] args) {
         Director director = new Director();

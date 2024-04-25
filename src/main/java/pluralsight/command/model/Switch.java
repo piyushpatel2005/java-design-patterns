@@ -1,4 +1,6 @@
-package pluralsight.command;
+package pluralsight.command.model;
+
+import pluralsight.command.model.Command;
 
 // invoker
 public class Switch {

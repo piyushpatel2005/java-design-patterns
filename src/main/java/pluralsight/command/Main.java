@@ -1,5 +1,7 @@
 package pluralsight.command;
 
+import pluralsight.command.model.*;
+
 import java.util.ArrayList;
 import java.util.List;
 
