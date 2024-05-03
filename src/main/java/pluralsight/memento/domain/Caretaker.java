@@ -1,4 +1,4 @@
-package pluralsight.memento;
+package pluralsight.memento.domain;
 
 
 import java.util.Stack;

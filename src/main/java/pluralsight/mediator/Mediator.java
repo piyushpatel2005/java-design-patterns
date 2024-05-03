@@ -1,5 +1,7 @@
 package pluralsight.mediator;
 
+import pluralsight.mediator.domain.Light;
+
 import java.util.ArrayList;
 import java.util.List;
 

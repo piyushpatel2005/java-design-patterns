@@ -1,5 +1,7 @@
 package pluralsight.memento;
 
+import pluralsight.memento.domain.Employee;
+
 import java.io.*;
 
 public class MementoSimpleDemo {

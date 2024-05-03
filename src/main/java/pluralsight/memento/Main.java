@@ -1,5 +1,8 @@
 package pluralsight.memento;
 
+import pluralsight.memento.domain.Caretaker;
+import pluralsight.memento.domain.Employee;
+
 public class Main {
 
     public static void main(String[] args) {

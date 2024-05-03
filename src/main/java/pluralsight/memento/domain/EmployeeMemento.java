@@ -1,4 +1,4 @@
-package pluralsight.memento;
+package pluralsight.memento.domain;
 
 // pluralsight.memento
 public class EmployeeMemento {

@@ -1,5 +1,10 @@
 package pluralsight.mediator;
 
+import pluralsight.mediator.domain.command.Command;
+import pluralsight.mediator.domain.Light;
+import pluralsight.mediator.domain.command.TurnOffAllLightsCommand;
+import pluralsight.mediator.domain.command.TurnOnAllLightsCommand;
+
 public class Main {
     public static void main(String[] args) {
 

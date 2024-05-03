@@ -1,4 +1,4 @@
-package pluralsight.mediator;
+package pluralsight.mediator.domain.command;
 
 // colleague
 public interface Command {

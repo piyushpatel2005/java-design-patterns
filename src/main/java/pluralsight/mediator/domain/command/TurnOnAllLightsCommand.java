@@ -1,4 +1,7 @@
-package pluralsight.mediator;
+package pluralsight.mediator.domain.command;
+
+import pluralsight.mediator.Mediator;
+import pluralsight.mediator.domain.command.Command;
 
 public class TurnOnAllLightsCommand implements Command {
     private Mediator med;
