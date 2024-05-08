@@ -1,4 +1,7 @@
-package pluralsight.strategy;
+package pluralsight.strategy.validation;
+
+import pluralsight.strategy.domain.CreditCard;
+import pluralsight.strategy.validation.ValidationStrategy;
 
 public class VisaStrategy extends ValidationStrategy {
     @Override

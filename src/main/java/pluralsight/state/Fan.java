@@ -1,5 +1,7 @@
 package pluralsight.state;
 
+import pluralsight.state.domain.*;
+
 public class Fan {
 
     State fanOffState;

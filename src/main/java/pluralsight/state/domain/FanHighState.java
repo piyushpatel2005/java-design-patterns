@@ -1,4 +1,7 @@
-package pluralsight.state;
+package pluralsight.state.domain;
+
+import pluralsight.state.Fan;
+import pluralsight.state.domain.State;
 
 public class FanHighState extends State {
 

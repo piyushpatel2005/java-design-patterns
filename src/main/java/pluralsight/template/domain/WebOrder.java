@@ -1,4 +1,6 @@
-package pluralsight.template;
+package pluralsight.template.domain;
+
+import pluralsight.template.domain.OrderTemplate;
 
 public class WebOrder extends OrderTemplate {
 

@@ -1,4 +1,6 @@
-package pluralsight.strategy;
+package pluralsight.strategy.validation;
+
+import pluralsight.strategy.domain.CreditCard;
 
 public abstract class ValidationStrategy {
 

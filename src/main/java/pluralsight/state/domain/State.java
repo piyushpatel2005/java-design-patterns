@@ -1,4 +1,4 @@
-package pluralsight.state;
+package pluralsight.state.domain;
 
 public abstract class State {
 

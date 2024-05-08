@@ -1,5 +1,7 @@
 package pluralsight.strategy;
 
+import pluralsight.strategy.domain.Person;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

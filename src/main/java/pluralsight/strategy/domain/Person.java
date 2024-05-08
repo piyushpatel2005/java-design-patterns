@@ -1,4 +1,4 @@
-package pluralsight.strategy;
+package pluralsight.strategy.domain;
 
 public class Person {
 

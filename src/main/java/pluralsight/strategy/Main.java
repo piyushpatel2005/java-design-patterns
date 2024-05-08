@@ -1,5 +1,9 @@
 package pluralsight.strategy;
 
+import pluralsight.strategy.domain.CreditCard;
+import pluralsight.strategy.validation.AmexStrategy;
+import pluralsight.strategy.validation.VisaStrategy;
+
 public class Main {
 
     public static void main(String[] args) {

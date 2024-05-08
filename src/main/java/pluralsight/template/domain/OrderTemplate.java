@@ -1,4 +1,4 @@
-package pluralsight.template;
+package pluralsight.template.domain;
 
 public abstract class OrderTemplate {
 
